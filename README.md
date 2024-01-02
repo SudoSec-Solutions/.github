@@ -10,10 +10,10 @@
 
 <div align="center">
   <a href="https://github.com/SudoSec-Solutions/">
-    <img src="https://i.ibb.co/8xF4TBt/Screenshot-7.png" alt="Logo" width="180" height="80">
+    <img src="https://i.ibb.co/8xF4TBt/Screenshot-7.png" alt="Logo" width="380" height="180">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">T3MP0RA</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
