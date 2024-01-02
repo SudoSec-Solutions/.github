@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][https://github.com/SudoSec-Solutions/.github/graphs/contributors]
+![Static Badge](https://img.shields.io/badge/Contributors-1-blue)
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
