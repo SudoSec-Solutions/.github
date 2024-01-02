@@ -4,7 +4,6 @@
 ![Static Badge](https://img.shields.io/badge/Forks-0-blue)
 ![Static Badge](https://img.shields.io/badge/Stars-1-green)
 ![Static Badge](https://img.shields.io/badge/Issues-0-red)
-[![MIT License][license-shield]][license-url]
 
 <br />
 
@@ -16,16 +15,14 @@
   <h3 align="center">T3MP0RA</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Welcome To T3MP0RA a UK CyberSec Team
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/SudoSec-Solutions"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/SudoSec-Solutions">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/SudoSec-Solutions">Request Feature</a>
   </p>
 </div>
 
@@ -51,7 +48,6 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
