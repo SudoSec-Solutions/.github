@@ -1,9 +1,9 @@
 <a name="readme-top"></a>
 
 ![Static Badge](https://img.shields.io/badge/Contributors-1-blue)
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+![Static Badge](https://img.shields.io/badge/Forks-0-blue)
+![Static Badge](https://img.shields.io/badge/Stars-1-green)
+![Static Badge](https://img.shields.io/badge/Issues-0-red)
 [![MIT License][license-shield]][license-url]
 
 <br />
