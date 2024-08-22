@@ -57,10 +57,10 @@
 
 <!-- PROJECTS -->
 ## SudoSec Solutions Projects
-
-Heyou     - Dating App  - Passive </br>
-sud0w0rm  - RDP Worm    - PoC
-
+<ul>
+  <li>Heyou     - Dating App  - Passive</li>
+  <li>sud0w0rm  - RDP Worm    - PoC</li>
+</ul>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
