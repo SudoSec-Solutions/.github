@@ -12,10 +12,10 @@
     <img src="https://github.com/SudoSec-Solutions/.github/blob/main/branding/Logo1-PNG.png?raw=true" alt="Logo" width="180" height="180">
   </a>
 
-  <h3 align="center">T3MP0RA</h3>
+  <h3 align="center">SudoSec Solutions Ltd</h3>
 
   <p align="center">
-    Welcome To T3MP0RA a UK CyberSec Team
+    Welcome To SudoSec Solutions a UK CyberSec Team
     <br />
     <a href="https://github.com/SudoSec-Solutions"><strong>Explore the docs »</strong></a>
     <br />
@@ -33,7 +33,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#sudoSec-solutions-projects">Projects</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -55,10 +55,11 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- PROJECTS -->
+## SudoSec Solutions Projects
 
-T3MP0RA is a PoC web application to gather and exploit targets. This project will NEVER be public contact me to help with the development of the project.
+Heyou     - Dating App  - Passive
+sud0w0rm  - RDP Worm    - PoC
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
