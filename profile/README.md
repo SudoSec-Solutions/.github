@@ -26,31 +26,11 @@
   </p>
 </div>
 
+## About SudoSec Solutions
 
+SudoSec Solutions Ltd is a UK-based cybersecurity team committed to providing cutting-edge security solutions and services. Our mission is to safeguard digital assets and enhance the security posture of organizations worldwide. We specialize in penetration testing, vulnerability assessments, and the development of innovative security tools. Our team is dedicated to staying ahead of emerging threats and ensuring our clients are protected in an ever-evolving cyber landscape.
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#sudoSec-solutions-projects">Projects</a>
-    </li>
-    <li>
-      <a href="#roadmap">Roadmap</a>
-    </li>
-    <li>
-      <a href="#contributing">Contributing</a>
-    </li>
-    <li>
-      <a href="#license">License</a>
-    </li>
-    <li>
-      <a href="#contact">Contact</a>
-    </li>
-  </ol>
-</details>
-
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- PROJECTS -->
 ## SudoSec Solutions Projects
